@@ -1,19 +1,4 @@
 A collection of lightweight Conky configurations and Python scripts to display your Google Calendar events directly on your Linux desktop. This repository contains two versions: a Minimalist layout and an Enhanced layout with advanced features like recurrence support and color-coded grouping.
-📋 Table of Contents
-
-    Prerequisites
-
-    Installation
-
-    Configuration
-
-    The Variants
-
-        1. Event-Calendar (Minimalist)
-
-        2. Event-Calendar-Alt (Enhanced)
-
-    Usage
 
 🛠 Prerequisites
 
